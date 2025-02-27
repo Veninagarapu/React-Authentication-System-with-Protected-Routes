@@ -1,4 +1,5 @@
 🚀 Project Overview
+
 This is a React-based authentication system that includes user login, protected routes, and persistent authentication using React Router, Context API, and Tailwind CSS. It ensures that only authenticated users can access certain pages like the profile page.
 
 📜 Features
