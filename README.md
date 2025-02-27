@@ -3,6 +3,7 @@
 This is a React-based authentication system that includes user login, protected routes, and persistent authentication using React Router, Context API, and Tailwind CSS. It ensures that only authenticated users can access certain pages like the profile page.
 
 📜 Features
+
 ✅ User Authentication – Login system with state management using Context API.
 ✅ Protected Routes – Users must be logged in to access the profile page.
 ✅ Persistent Login – Stores user data in localStorage to maintain session after refresh.
@@ -10,6 +11,7 @@ This is a React-based authentication system that includes user login, protected 
 ✅ Responsive UI – Styled using Tailwind CSS for a modern, mobile-friendly experience.
 
 🛠️ Technologies Used
+
 React.js (Hooks & Functional Components)
 React Router (Navigation & Protected Routes)
 Context API (Global Authentication State)
